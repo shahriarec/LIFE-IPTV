@@ -262,7 +262,7 @@ http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="LIFE IPTV (BD)",HITS
 http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8
-#EXTINF:-1 group-title="LIFE IPTV (BD)",KIX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1024px-KIX_logo.svg.png group-title="LIFE IPTV (BD)",KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="LIFE IPTV (BD)",Zee Cafe HD
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
@@ -280,7 +280,7 @@ https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X3aDsYK.jpg" group-title="LIFE IPTV (BD)",CELESTIAL MOVIES                                     
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:0 group-title="LIFE IPTV (BD)",MNX HD
+#EXTINF:-1 tvg-logo="https://kccl.tv/sites/default/files/mnx%20hd.png group-title="LIFE IPTV (BD)",MNX HD
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="LIFE IPTV (BD)",MBC MAX HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
