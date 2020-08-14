@@ -18,9 +18,7 @@ http://45.249.187.238:8081/hls/new16.m3u8
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="LIFE IPTV (BD)",CHANNEL 9 HD
 http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="LIFE IPTV (BD)",Channel 9 HD (Backup 01)
-http://103.141.66.36/bpk-tv/10080/default/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="LIFE IPTV (BD)",CHANNEL 9 HD (Backup 02)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="LIFE IPTV (BD)",CHANNEL 9 HD (Backup)
 http://otv.ftpbd.net/streams/102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="LIFE IPTV (BD)",GAZI TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
@@ -39,8 +37,10 @@ http://103.205.133.14/hls/mohonatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="LIFE IPTV (BD)",MY TV HD
 https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="LIFE IPTV (BD)",BANGLA TV HD
-http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+http://103.205.133.14/hls/banglatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sYZOVV5.png" group-title="LIFE IPTV (BD)",ANANDA TV
+http://103.141.66.36/bpk-tv/10258/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sYZOVV5.png" group-title="LIFE IPTV (BD)",ANANDA TV (Backup)
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="LIFE IPTV (BD)",BOISHAKHI TV
 http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
@@ -52,8 +52,10 @@ https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 http://103.205.133.19/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="LIFE IPTV (BD)",EKATTOR TV HD 
 http://10.16.100.205/hls/ekattor_hd_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="LIFE IPTV (BD)",EKATTOR TV HD (Backup)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="LIFE IPTV (BD)",EKATTOR TV HD (Backup 01)
 http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="LIFE IPTV (BD)",EKATTOR TV HD (Backup 02)
+https://edge4.bioscopelive.com/hls/anonymous/P7bBfYGfitx30QQWlsY3NQ/1597377435/ekattur_tv_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="LIFE IPTV (BD)",DBC NEWS HD
 https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="LIFE IPTV (BD)",INDEPENDENT TV
@@ -308,8 +310,6 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="LIFE IPTV (BD)",Saudi Quran HD
 https://5b18be6964c2f.streamlock.net/live/_definst_/quran/chunklist.m3u8
-#EXTINF:-1group-title="https://www.azan.tv/assets/importent_images/logo.png" group-title="LIFE IPTV (BD)",AZAN TV
-https://bdsl.jagobd.com:444/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/live-orgin/azantv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Ekd94G.png" group-title="SHAHRIAR",CORONA LIVE
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dhakalive-low.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="SHAHRIAR",BTV WORLD
