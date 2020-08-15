@@ -51,7 +51,7 @@ https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="LIFE IPTV (BD)",JAMUNA TV
 http://103.205.133.19/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="LIFE IPTV (BD)",EKATTOR TV HD 
-http://10.16.100.205/hls/ekattor_hd_720.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="LIFE IPTV (BD)",EKATTOR TV HD (Backup 01)
 http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="LIFE IPTV (BD)",EKATTOR TV HD (Backup 02)
@@ -69,19 +69,23 @@ http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="LIFE IPTV (BD)",STAR JALSHA HD
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="LIFE IPTV (BD)",Zee Bangla HD
-http://45.249.187.238:8081/hls/new8.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="LIFE IPTV (BD)",Zee Bangla SD
-https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="LIFE IPTV (BD)",Colors Bangla HD
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="LIFE IPTV (BD)",Sony Aath
-http://103.205.133.19/hls/sony8.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
+#EXTINF:-1 tvg-logo="https://thesamikhsya.com/wp-content/uploads/2019/07/aakashath.jpg" group-title="LIFE IPTV (BD)",Akaash Aath
+http://103.141.66.36/bpk-tv/10112/default/manifest.mpd
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="LIFE IPTV (BD)",Jalsha Movies HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" group-title="LIFE IPTV (BD)",Jalsha Movies SD
+https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="LIFE IPTV (BD)",Ruposhi Bangla
 http://103.205.133.14/hls/ruposhibangla.m3u8
 #EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/10508559.5480175940d1b.jpg" group-title="LIFE IPTV (BD)",TOLLYWOOD TV
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://thesamikhsya.com/wp-content/uploads/2019/07/aakashath.jpg" group-title="LIFE IPTV (BD)",Akaash Aath
-http://103.141.66.36/bpk-tv/10112/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM4spPflPICAbCtRr9cjnMAbnxYS2JFec4fr57-_NbLztTXmqP&usqp=CAU" group-title="LIFE IPTV (BD)",Khusbo Bangla
 http://103.141.66.36/bpk-tv/10139/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU" group-title="LIFE IPTV (BD)",APB Ananda
@@ -98,6 +102,10 @@ http://45.249.187.238:8081/hls/tsl-7.m3u8
 http://103.214.202.218:8081/live/sony-40/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="LIFE IPTV (BD)",STAR PLUS HD
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="LIFE IPTV (BD)",ZEE TV HD
+http://103.141.66.36/bpk-tv/10403/default/manifest.mpd?=.m3u8
+#EXTINF:0 tvg-logo="https://de.wikipedia.org/wiki/Datei:Zee_TV-2018.png" group-title="LIFE IPTV (BD)",ZEE TV SD
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="LIFE IPTV (BD)",Star Gold HD
 https://edge01.iptv.digijadoo.net/live/star_gold/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="LIFE IPTV (BD)",Zee Cinema
@@ -112,10 +120,6 @@ https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 http://103.141.66.36/bpk-tv/10182/default/manifest.mpd?=.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="LIFE IPTV (BD)",& TV HD (Backup)
 http://103.49.168.172:8081/ebox/in_and_tv_hd/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="LIFE IPTV (BD)",ZEE TV SD
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="LIFE IPTV (BD)",ZEE TV HD
-http://103.141.66.36/bpk-tv/10403/default/manifest.mpd?=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ETVpGyf.png" group-title="LIFE IPTV (BD)",THE Q
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wXSRiun.jpg" group-title="LIFE IPTV (BD)",Dabaang
@@ -124,6 +128,8 @@ http://103.141.66.36/bpk-tv/10301/default/manifest.mpd?=.m3u8
 http://103.141.66.36/bpk-tv/10430/default/manifest.mpd?=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="LIFE IPTV (BD)",Movies Now
 http://103.214.202.218:8081/live/moviesnow/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157.jpg" group-title="LIFE IPTV (BD)",SONY MAX HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/31.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png"group-title="LIFE IPTV (BD)",Sony MAX
 http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="LIFE IPTV (BD)",Zee Bollywood
@@ -131,7 +137,7 @@ https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="LIFE IPTV (BD)",Star Gold
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="LIFE IPTV (BD)",Zee Cinema
-https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="LIFE IPTV (BD)",Zee BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="LIFE IPTV (BD)",BFLIX MOVIES
@@ -198,6 +204,8 @@ http://103.141.66.36/bpk-tv/10240/default/manifest.mpd?=.m3u8
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="LIFE IPTV (BD)",TLC HD
 https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="LIFE IPTV (BD)",TRAVEL XP HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uofhcTE.jpg" group-title="LIFE IPTV (BD)",BBC Lifestyle
 https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Living-foodz-logo.jpg/200px-Living-foodz-logo.jpg" group-title="LIFE IPTV (BD)",Living Foodz
@@ -243,21 +251,25 @@ https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/starmovies-lg.jpg" group-title="LIFE IPTV (BD)",Star Movies
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="LIFE IPTV (BD)",HBO
-http://45.249.187.238:8081/hls/new13.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="LIFE IPTV (BD)",HBO (Backup)
 http://otv.ftpbd.net/streams/111/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="LIFE IPTV (BD)",AXN HD
-http://210.210.155.35/uq2663/h/h141/01.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="LIFE IPTV (BD)",AXN
+http://iptv.kitv.live:1935/live/Shari/MTV-P/42.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="LIFE IPTV (BD)",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="LIFE IPTV (BD)",Sony Movies Action
 http://51.52.156.22:8888/http/009
 #EXTINF:0 tvg-logo="https://i.imgur.com/EV57mn3.png" group-title="LIFE IPTV (BD)",Lotus Macaw
-https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="LIFE IPTV (BD)",& Prive HD
 http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="LIFE IPTV (BD)",& Flix HD 
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://durbinlive.xyz/uploads/tv_image/flix.png" group-title="LIFE IPTV (BD)",& FLIX SD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/40.m3u8
+#EXTINF:-1 tvg-logo="https://kccl.tv/sites/default/files/mn%20plud%20hd.jpg" group-title="LIFE IPTV (BD)",MN+ HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/38.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="LIFE IPTV (BD)",Comedy Central HD
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="LIFE IPTV (BD)",HITS
@@ -302,6 +314,8 @@ http://103.141.66.36/bpk-tv/10285/default/manifest.mpd
 http://103.141.66.36/bpk-tv/10305/default/manifest.mpd?=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Times_Now_2010.png/220px-Times_Now_2010.png" group-title="LIFE IPTV (BD)",TIMES NOW
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Peace_TV_Bangla#/media/File:Peacetvbanglalogo2.jpeg" group-title="LIFE IPTV (BD)",Peace TV Bangla
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="LIFE IPTV (BD)",Al Dawah
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="LIFE IPTV (BD)",Madani TV Bangla
