@@ -52,10 +52,6 @@ https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 http://103.205.133.19/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="LIFE IPTV (BD)",EKATTOR TV HD 
 http://iptv.kitv.live:1935/live/Shari/MTV-P/2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="LIFE IPTV (BD)",EKATTOR TV HD (Backup 01)
-http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="LIFE IPTV (BD)",EKATTOR TV HD (Backup 02)
-https://edge4.bioscopelive.com/hls/anonymous/P7bBfYGfitx30QQWlsY3NQ/1597377435/ekattur_tv_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="LIFE IPTV (BD)",DBC NEWS HD
 https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="LIFE IPTV (BD)",INDEPENDENT TV
@@ -104,7 +100,7 @@ http://103.214.202.218:8081/live/sony-40/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="LIFE IPTV (BD)",ZEE TV HD
 http://103.141.66.36/bpk-tv/10403/default/manifest.mpd?=.m3u8
-#EXTINF:0 tvg-logo="https://de.wikipedia.org/wiki/Datei:Zee_TV-2018.png" group-title="LIFE IPTV (BD)",ZEE TV SD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="LIFE IPTV (BD)",ZEE TV SD
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="LIFE IPTV (BD)",Star Gold HD
 https://edge01.iptv.digijadoo.net/live/star_gold/playlist.m3u8
@@ -252,8 +248,6 @@ https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="LIFE IPTV (BD)",HBO
 http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="LIFE IPTV (BD)",HBO (Backup)
-http://otv.ftpbd.net/streams/111/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="LIFE IPTV (BD)",AXN
 http://iptv.kitv.live:1935/live/Shari/MTV-P/42.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="LIFE IPTV (BD)",Star Movies Select HD
@@ -314,7 +308,7 @@ http://103.141.66.36/bpk-tv/10285/default/manifest.mpd
 http://103.141.66.36/bpk-tv/10305/default/manifest.mpd?=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Times_Now_2010.png/220px-Times_Now_2010.png" group-title="LIFE IPTV (BD)",TIMES NOW
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Peace_TV_Bangla#/media/File:Peacetvbanglalogo2.jpeg" group-title="LIFE IPTV (BD)",Peace TV Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="LIFE IPTV (BD)",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="LIFE IPTV (BD)",Al Dawah
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
