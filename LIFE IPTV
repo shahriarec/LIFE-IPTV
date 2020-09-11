@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="LIFE IPTV (BD)",BTV WORLD
-https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="LIFE IPTV (BD)",CHANNEL I
-https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="LIFE IPTV (BD)",NTV
 https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="LIFE IPTV (BD)",DEEPTO TV
@@ -23,7 +23,7 @@ https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="LIFE IPTV (BD)",SA TV 
 https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="LIFE IPTV (BD)",ATN BANGLA 
-https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+http://103.205.133.19/hls/atnbangla.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="LIFE IPTV (BD)",Desh TV
 http://103.205.133.14/hls/deshtv.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="LIFE IPTV (BD)",Ekushey TV
