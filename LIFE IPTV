@@ -54,7 +54,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/16.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="LIFE IPTV (BD)",SHOMOY TV
 http://iptv.kitv.live:1935/live/Shari/MTV-P/14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="LIFE IPTV (BD)",ATN NEWS
-http://103.49.168.172:8081/ebox/bd_atn_news/chunks.m3u8
+http://103.205.133.14/hls/atnnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="LIFE IPTV (BD)",STAR JALSHA HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="LIFE IPTV (BD)",Zee Bangla HD
@@ -106,7 +106,7 @@ http://103.49.168.172:8081/ebox/in_and_tv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ETVpGyf.png" group-title="LIFE IPTV (BD)",THE Q
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="LIFE IPTV (BD)",SONY SAB
-http://45.249.187.238:8081/hls/tsl-4.m3u8
+http://103.214.202.218:8081/live/sonysab/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="LIFE IPTV (BD)",Star Gold HD
 http://185.8.176.227:25461/strtester/ap8s9ndf709a8/56
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="LIFE IPTV (BD)",Zee Cinema
@@ -164,7 +164,9 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="LIFE IPTV (BD)",Bein Sports Xtra HD
 https://chostv.mobie.in/choos/sports/beinxtra.m3u8
-#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="LIFE IPTV (BD)",Ten Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="LIFE IPTV (BD)",ESPN HD
+http://103.214.202.218:8081/live/espnhd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="LIFE IPTV (BD)",TEN SPORTS
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="LIFE IPTV (BD)",Sony Six HD
 http://103.205.133.14/hls/sonysix.m3u8
@@ -176,8 +178,6 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
 http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="LIFE IPTV (BD)",Sony Ten 3 HD
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="LIFE IPTV (BD)",ESPN HD
-http://103.214.202.218:8081/live/espnhd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="LIFE IPTV (BD)",Star Sports Select 1 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="LIFE IPTV (BD)",Star Sports Select 2 HD
@@ -190,6 +190,8 @@ http://185.8.176.227:25461/strtester/ap8s9ndf709a8/68
 http://45.249.187.238:8081/hls/new2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="LIFE IPTV (BD)",Star Sports 2 HD
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="LIFE IPTV (BD)",Star Sports 2 HD [Backup]
+http://45.249.187.238:8081/hls/new1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PiXDwF0.jpg" group-title="LIFE IPTV (BD)",DSport
 http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="LIFE IPTV (BD)",Olympic Channel [HD]
