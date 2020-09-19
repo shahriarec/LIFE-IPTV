@@ -17,11 +17,11 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="LIFE IPTV (BD)",CHANNEL 9 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="LIFE IPTV (BD)",GAZI TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/6.m3u8
+http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="LIFE IPTV (BD)",GAZI TV [BACKUP]
-http://10.16.100.203:8082/bangla/gtv.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="LIFE IPTV (BD)",ASIAN TV
-http://45.249.187.238:8081/hls/live5.m3u8
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="LIFE IPTV (BD)",SA TV 
 http://103.214.202.218:8081/live/satv-22/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="LIFE IPTV (BD)",ATN BANGLA 
