@@ -1,3 +1,318 @@
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="SHAHRIAR-NEW",BTV World
+https://ott.bingebd.com:443/live/ngrp:btv_world_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="SHAHRIAR-NEW",Sangsad TV
+https://ott.bingebd.com:443/live/ngrp:sangsad_tv_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="SHAHRIAR-NEW",ATN Bangla
+https://ott.bingebd.com:443/live/ngrp:atn_bangla_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="SHAHRIAR-NEW",Channel I HD
+https://ott.bingebd.com:443/live/ngrp:channel_i_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="SHAHRIAR-NEW",Ekushey TV
+https://ott.bingebd.com:443/live/ngrp:ekushey_tv_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="SHAHRIAR-NEW",NTV
+https://ott.bingebd.com:443/live/ngrp:ntv_all/chunklist_b6647521.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="SHAHRIAR-NEW",RTV
+https://ott.bingebd.com:443/live/ngrp:rtv_all/chunklist_b5464165.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="SHAHRIAR-NEW",Gazi TV
+https://ott.bingebd.com:443/live/ngrp:gazi_tv_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="SHAHRIAR-NEW",Maasranga TV
+https://ott.bingebd.com:443/live/ngrp:maasranga_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="SHAHRIAR-NEW",Channel 9 HD
+https://ott.bingebd.com:443/live/ngrp:channel_9_all/chunklist_b2581369.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="SHAHRIAR-NEW",Bangla Vision
+https://ott.bingebd.com:443/live/ngrp:bangla_vision_all/chunklist_b6803851.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="SHAHRIAR-NEW",Duronto TV
+https://ott.bingebd.com:443/live/ngrp:duronto_tv_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOt3yWAtiThOoaXP24ItdKCDw3z7N8N2Ad84-t4W35b7tpvpVl&usqp=CAU" group-title="SHAHRIAR-NEW",Bijoy TV
+https://ott.bingebd.com:443/live/ngrp:bijoy_tv_all/chunklist_b3514093.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="SHAHRIAR-NEW",Deepto TV HD
+https://ott.bingebd.com:443/live/ngrp:deepto_tv_all/chunklist_b5698885.m3u8
+#EXTINF:-1 tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo-768x876.jpg" group-title="SHAHRIAR-NEW",Asian TV
+https://ott.bingebd.com:443/live/ngrp:asian_tv_all/chunklist_b2582637.m3u8
+#EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2018/03/ATV-Logo.jpg" group-title="SHAHRIAR-NEW",Ananda TV
+https://ott.bingebd.com:443/live/ngrp:probashibangla_all/chunklist_b4731924.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="SHAHRIAR-NEW",Boishakhi TV
+https://ott.bingebd.com:443/live/ngrp:boishakhi_tv_all/chunklist_b4536744.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="SHAHRIAR-NEW",Bangla TV
+https://ott.bingebd.com:443/live/ngrp:bangla_tv_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="SHAHRIAR-NEW",Desh TV
+https://ott.bingebd.com:443/live/ngrp:ott_desh_tv_mobile/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="SHAHRIAR-NEW",SATV
+https://ott.bingebd.com:443/live/ngrp:sa_tv_all/chunklist_b6843908.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="SHAHRIAR-NEW",Nagorik TV
+https://ott.bingebd.com:443/live/ngrp:nagorik_tv_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwpSPqiTQxA4tUFtfFSakY-i0NtIFevlyKRrWNc2niWcT1qG5K&usqp=CAU" group-title="SHAHRIAR-NEW",Mohona TV
+https://ott.bingebd.com:443/live/ngrp:mohona_tv_all/chunklist_b4535430.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="SHAHRIAR-NEW",MY TV
+https://ott.bingebd.com:443/live/ngrp:my_tv_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="SHAHRIAR-NEW",ATN News
+https://ott.bingebd.com:443/live/ngrp:atn_news_all/chunklist_b2677541.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="SHAHRIAR-NEW",Ekattor TV
+https://ott.bingebd.com:443/live/ngrp:ekattor_tv_all/chunklist_b6442363.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="SHAHRIAR-NEW",News 24
+https://ott.bingebd.com:443/live/ngrp:news_24_hd_all/chunklist_b6709377.m3u8
+#EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="SHAHRIAR-NEW",Independent TV
+https://ott.bingebd.com:443/live/ngrp:independent_tv_all/chunklist_b7342759.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="SHAHRIAR-NEW",DBC News
+https://ott.bingebd.com:443/live/ngrp:dbc_news_all/chunklist_b2543940.m3u8
+#EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="SHAHRIAR-NEW",Independent TV
+https://ott.bingebd.com:443/live/ngrp:independent_tv_all/chunklist_b7342759.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="SHAHRIAR-NEW",Somoy News
+https://ott.bingebd.com:443/live/ngrp:somoy_news_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="SHAHRIAR-NEW",Jamuna TV
+https://ott.bingebd.com:443/live/ngrp:jamuna_tv_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1mFDQlU_tELMGmcMJefBlNHaCM-yZlV__nH39fEm4ftZ_alp4&usqp=CAU" group-title="SHAHRIAR-NEW",Channel 24
+https://ott.bingebd.com:443/live/ngrp:channel_24_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="SHAHRIAR-NEW",Gaan Bangla
+https://ott.bingebd.com:443/live/ngrp:gaan_bangla_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU" group-title="SHAHRIAR-NEW",Star Jalsha HD
+https://ott.bingebd.com:443/live/ngrp:star_jalsha_hd_all/chunklist_b8444504.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="SHAHRIAR-NEW",Zee Bangla HD
+https://ott.bingebd.com:443/live/ngrp:zee_bangla_all/chunklist_b6106524.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="SHAHRIAR-NEW",Sony Aath
+https://ott.bingebd.com:443/live/ngrp:sony_aath_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="SHAHRIAR-NEW",Colors Bangla HD
+https://ott.bingebd.com:443/live/ngrp:colors_bangla_hd_all/chunklist_b8240824.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="SHAHRIAR-NEW",Colors Bangla
+https://ott.bingebd.com:443/live/ngrp:colors_bangla_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ3cQXhIXu67qjS_-PWKYclLVcwOGJ1VLfMuKdhHKMdaTA1xvz&usqp=CAU" group-title="SHAHRIAR-NEW",Akaash Aath
+https://ott.bingebd.com:443/live/ngrp:dillagi_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHA9blYwnVrZHvp4MalItdJj7LA-RY_9QV9q1PzlI-1EVSgnwD&usqp=CAU" group-title="SHAHRIAR-NEW",Ruposhi Bangla
+https://ott.bingebd.com:443/live/ngrp:ruposhi_bangla_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="SHAHRIAR-NEW",Jalsha Movies
+https://ott.bingebd.com:443/live/ngrp:jalsha_movies_all/chunklist_b2779909.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="SHAHRIAR-NEW",Sangeet Bangla
+https://ott.bingebd.com:443/live/ngrp:sangeet_bangla_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTzEQ9heTuhfYJcQAMkTkhi3-vFnFAN2QWDXyLlMGmyJCqafMF&usqp=CAU" group-title="SHAHRIAR-NEW",Dhoom Music
+https://ott.bingebd.com:443/live/ngrp:dhoom_music_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="SHAHRIAR-NEW",Star Plus HD
+https://ott.bingebd.com:443/live/ngrp:star_plus_hd_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="SHAHRIAR-NEW",Star Plus
+https://ott.bingebd.com:443/live/ngrp:star_plus_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="SHAHRIAR-NEW",Sony HD
+https://ott.bingebd.com:443/live/ngrp:sony_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="SHAHRIAR-NEW",Sony SAB HD
+https://ott.bingebd.com:443/live/ngrp:sab_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="SHAHRIAR-NEW",Zee TV
+https://ott.bingebd.com/live/ngrp:zee_tv_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="SHAHRIAR-NEW",Colors HD
+https://ott.bingebd.com:443/live/ngrp:colors_hd_all/chunklist_b8464765.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="SHAHRIAR-NEW",Colors (Asia)
+https://ott.bingebd.com:443/live/ngrp:colors_asia_all/chunklist_b2536446.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="SHAHRIAR-NEW",Star Bharat (Asia)
+https://ott.bingebd.com:443/live/ngrp:star_bharat_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUEEboKTR4xz2p8TlDpw4z2kxBJ9b-l0e-Rc-PquMFO6JWt7c3&usqp=CAU" group-title="SHAHRIAR-NEW",Colors Rishtey
+https://ott.bingebd.com:443/live/ngrp:rishtey_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="SHAHRIAR-NEW",Star Gold HD
+https://ott.bingebd.com:443/live/ngrp:star_gold_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="SHAHRIAR-NEW",Star Gold UK
+https://ott.bingebd.com/live/ngrp:star_gold_intl_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="SHAHRIAR-NEW",Star Gold 2
+https://ott.bingebd.com:443/live/ngrp:movies_ok_all/chunklist_b4606481.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="SHAHRIAR-NEW",Sony Max HD
+https://ott.bingebd.com:443/live/ngrp:sony_max_all/chunklist_b5178212.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="SHAHRIAR-NEW",Sony Max 2
+https://ott.bingebd.com:443/live/ngrp:sony_max_2_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAvEjqn1pmZ0Y0sKbxKTqLoICHC1AVAoZMpu39uaa4HRfHho-a&usqp=CAU" group-title="SHAHRIAR-NEW",B4U Movies
+https://ott.bingebd.com:443/live/ngrp:b4u_movies_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-ZaBbQyfLbHszKJkeVI_1QaHhb9-rE6Wv3krPpqN_Lu6x4pBD&usqp=CAU" group-title="SHAHRIAR-NEW",Manoranjan TV
+https://ott.bingebd.com/live/ngrp:manoranjan_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtQzwy7mbf4oohpyLiaxyFSyjqzKKmuxknccXHkokhKfUeOMc_&usqp=CAU" group-title="SHAHRIAR-NEW",Monoranjan Movies
+https://ott.bingebd.com:443/live/ngrp:manoranjan_movies_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQs6iuXnpTVJ_euai2qFEHcIBYkVlCkigqbmE0G_hIkq2gUe25S&usqp=CAU" group-title="SHAHRIAR-NEW",Enter 10
+https://ott.bingebd.com/live/ngrp:enter_ten_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="SHAHRIAR-NEW",Sony Ten 1 HD
+https://ott.bingebd.com:443/live/ngrp:sony_ten_1_all/chunklist_b8523798.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="SHAHRIAR-NEW",Sony Ten 2 HD
+https://ott.bingebd.com:443/live/ngrp:sony_ten_2_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="SHAHRIAR-NEW",Sony Ten 3 HD
+https://ott.bingebd.com:443/live/ngrp:sony_ten_3_all/chunklist_b3237662.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SHAHRIAR-NEW",Sony Six HD
+https://ott.bingebd.com:443/live/ngrp:sony_six_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="SHAHRIAR-NEW",Discovery HD (English)
+https://ott.bingebd.com:443/live/ngrp:discovery_all/chunklist_b2807673.m3u8
+#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="SHAHRIAR-NEW",Discovery Science (Hindi)
+https://ott.bingebd.com:443/live/ngrp:discovery_science_all/chunklist_b3039036.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS84hgVS1QU6oYBmIFShXlVLt1INqdZ8DLiEKr5-ltpSTGuX1GP&usqp=CAU" group-title="SHAHRIAR-NEW",Discovery Turbo (Hindi)
+https://ott.bingebd.com:443/live/ngrp:discovery_turbo_all/chunklist_b1228000.m3u8
+#EXTINF:0 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="SHAHRIAR-NEW",Animal Planet (Hinde)
+https://ott.bingebd.com:443/live/ngrp:animal_planet_all/chunklist_b2758204.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="SHAHRIAR-NEW",Sony BBC Earth HD
+https://ott.bingebd.com:443/live/ngrp:sony_bbc_earth_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="SHAHRIAR-NEW",National Geographic HD
+https://ott.bingebd.com:443/live/ngrp:nat_geo_in_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png" group-title="SHAHRIAR-NEW",Nat Geo Wild
+https://ott.bingebd.com:443/live/ngrp:nat_geo_wild_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="SHAHRIAR-NEW",Nat Geo People
+https://ott.bingebd.com/live/ngrp:nat_geo_people_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="SHAHRIAR-NEW",TLC HD (English)
+https://ott.bingebd.com:443/live/ngrp:tlc_hd_all/chunklist_b7013554.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="SHAHRIAR-NEW",TLC (Hindi)
+https://ott.bingebd.com:443/live/ngrp:tlc_all/chunklist_b2661083.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="SHAHRIAR-NEW",History TV 18
+https://ott.bingebd.com:443/live/ngrp:history_tv_hd_all/chunklist_b8287652.m3u8
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg" group-title="Cooking Channel",Fox Life (India)
+https://ott.bingebd.com:443/live/ngrp:fox_life_all/chunklist_b2780326.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLCa5172AYKrPfgPwgAX5CsBccTeZ6R73Ij_D9-Se2TtV8TEX7&usqp=CAU" group-title="SHAHRIAR-NEW",BBC Lifestyle
+https://ott.bingebd.com/live/ngrp:bbc_lifestyle_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU" group-title="SHAHRIAR-NEW",Hum Masala
+https://ott.bingebd.com/live/ngrp:hum_masala_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBDbdvElT5PtG7g65aBce-gV1cs1D1TMGqM4L8tOzfzfTs5dK8&usqp=CAU" group-title="SHAHRIAR-NEW",FYI TV 18 HD
+https://ott.bingebd.com/live/ngrp:fyi_hd_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="SHAHRIAR-NEW",Sony Pix HD (Asia) 
+https://ott.bingebd.com:443/live/ngrp:sony_pix_all/chunklist_b6711325.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="SHAHRIAR-NEW",HBO
+https://ott.bingebd.com:443/live/ngrp:hbo_all/chunklist_b2670202.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQirrb7mphGUlRzLIeTvs3gKwRVDJCt21kEOj6bNx134xFd4M2M&usqp=CAU" group-title="SHAHRIAR-NEW",Movies Now HD
+https://ott.bingebd.com:443/live/ngrp:movies_now_all/chunklist_b2804244.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRW7bwrKqPK7xc-lJH7h3CxzDftK-bslZXKnYNbwMUOAklu0S6&usqp=CAU" group-title="SHAHRIAR-NEW",Lotus Macau
+https://ott.bingebd.com/live/ngrp:macau_lotus_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFQW_nL-tG692nK9Pi-kKvUd3QO7CFq6Hb6xJ3RXRPORz96yw9&usqp=CAU" group-title="SHAHRIAR-NEW",Warner TV
+https://ott.bingebd.com:443/live/ngrp:wb_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="SHAHRIAR-NEW",COMEDY CENTRAL
+https://ott.bingebd.com/live/ngrp:comedy_central_all/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTudCT3P1UbvRXqeH0I6lvPoIC6bUMbPfzxVPHfueI65G3oZZJV&usqp=CAU" group-title="SHAHRIAR-NEW",Zoom
+https://ott.bingebd.com:443/live/ngrp:zoom_all/chunklist_b2852500.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTCaE5IZ-lp7bImbjxc_ZgFmHLhM51H_dm5iSODI5XguG_JPb8&usqp=CAU" group-title="SHAHRIAR-NEW",Zing
+https://ott.bingebd.com/live/ngrp:zing_all/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwPpZG-Zc721qCuySetMdAPcQ9qbGopnwBgov06dLITRWNQGoc&usqp=CAU" group-title="SHAHRIAR-NEW",B4U Music
+https://ott.bingebd.com:443/live/ngrp:b4u_music_all/chunklist_b2128000.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="SHAHRIAR-NEW",Music India
+https://ott.bingebd.com:443/live/ngrp:music_india_all/chunklist_b1228000.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2MTTFmEKapIMaRlFFc72hg7rWdp-PuG4XFcNBymgrORZfiUTx&usqp=CAU" group-title="SHAHRIAR-NEW",9XM
+https://ott.bingebd.com:443/live/ngrp:9xm_all/chunklist_b2128000.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ-4nJohL8IrVe8hD0RG8TuxNE8Dd28I-mzw5z7F0bSDwL7ZR6&usqp=CAU" group-title="SHAHRIAR-NEW",9X Jalwa
+https://ott.bingebd.com:443/live/ngrp:9x_jalwa_all/chunklist_b1228000.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzfGgs_rEmtSGXF3ND83x9yqQ-ec-DY5dnYdxcrE-1GD4afm4m&usqp=CAU" group-title="SHAHRIAR-NEW",MTV Beates
+https://ott.bingebd.com:443/live/ngrp:mtv_beats_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="SHAHRIAR-NEW",VH1 HD
+https://ott.bingebd.com:443/live/ngrp:vh1_all/chunklist_b8339540.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="SHAHRIAR-NEW",Cartoon Network (Hindi)
+https://ott.bingebd.com:443/live/ngrp:cartoon_network_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUDc2IedgFG7neZP1gzxgPmfKwOWOjmDVblPsjdQZsN5NI7PLh&usqp=CAU" group-title="SHAHRIAR-NEW",Pogo
+https://ott.bingebd.com:443/live/ngrp:pogo_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfq48KvLWpPeT7HitixQ08F8487HskZv86vw&usqp=CAU" group-title="SHAHRIAR-NEW",NICK HD
+https://ott.bingebd.com:443/live/ngrp:nick_hd_all/chunklist_b8432648.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="SHAHRIAR-NEW",NICK (Bangla)
+https://ott.bingebd.com:443/live/ngrp:nickelodeon_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw5Ywd0kn1Yw7hokd_rVx6XbAiWM9cbXf4tUWccAx3cel5eq5A&usqp=CAU" group-title="SHAHRIAR-NEW",Nick Jr
+https://ott.bingebd.com:443/live/ngrp:nick_jr_all/chunklist_b2514441.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="SHAHRIAR-NEW",Sonic (Bangla)
+https://ott.bingebd.com:443/live/ngrp:sonic_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg" group-title="SHAHRIAR-NEW",Sony Yay (Bangla)
+https://ott.bingebd.com:443/live/ngrp:sony_yay_all/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SHAHRIAR-NEW",Discovery Kids (Hindi)
+https://ott.bingebd.com:443/live/ngrp:discovery_kids_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="SHAHRIAR-NEW",BBC World
+https://ott.bingebd.com/live/ngrp:bbc_world_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="SHAHRIAR-NEW",Al Jazeera
+https://ott.bingebd.com/live/ngrp:al_jazeera_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" group-title="SHAHRIAR-NEW",CNN International
+https://ott.bingebd.com/live/ngrp:cnn_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU" group-title="SHAHRIAR-NEW",DW TV Asia
+https://ott.bingebd.com/live/ngrp:dw_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEKhR0IrpQDUCkW9KSoHMj20PsI5MT-uRWaFFr1Oa0f67tQ48D&usqp=CAU" group-title="SHAHRIAR-NEW",Arirang World
+https://ott.bingebd.com/live/ngrp:arirang_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnGntoTDveL4C5SrJuUwrW94qkWvuH_EBd0WtGKbbDJ9v3oG75&usqp=CAU" group-title="SHAHRIAR-NEW",NHK World
+https://ott.bingebd.com/live/ngrp:nhk_world_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzDndevzO7-efsDrXyZvrx56BmXz76gqTOT8tFnP35Otma7V8K&usqp=CAU" group-title="SHAHRIAR-NEW",Euro News
+https://ott.bingebd.com/live/ngrp:euro_news_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpuZLuIn9FHHlI5pLDSDogQR0vxsTaPNAErfukF19ZMt2zJdr0&usqp=CAU" group-title="SHAHRIAR-NEW",Rai Italia
+https://ott.bingebd.com/live/ngrp:rai_italia_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMSdz9DT_vpqz8u3sENPROUUV--LSH74JfGiNZTC9gF6AJ5pmz&usqp=CAU" group-title="SHAHRIAR-NEW",YTN World
+https://ott.bingebd.com/live/ngrp:ytn_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1_kesiLfXJ9Wu-BF-AD4ne785WSMqnihnFxlV62Vh0V_UYEb1&usqp=CAU" group-title="SHAHRIAR-NEW",PTV World
+https://ott.bingebd.com/live/ngrp:ptv_world_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcPH6YON1RUCOHjLcZ1P1_9Lfbw_KacCU4DYLjp9piHD9B7RjV&usqp=CAU" group-title="SHAHRIAR-NEW",PTV Home
+https://ott.bingebd.com/live/ngrp:ptv_home_all/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/UwRuxHm.png" group-title="SHAHRIAR-NEW",PTV Global
+https://ott.bingebd.com/live/ngrp:ptv_global_all/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/DEu41tl.png" group-title="SHAHRIAR-NEW",PTV News
+https://ott.bingebd.com/live/ngrp:ptv_news_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTst9YS4csrU9magWhJI1hbe8ELtlrqYvrpzQ4DtawJT7WMrMxg&usqp=CAU" group-title="SHAHRIAR-NEW",ARY Zindagi
+https://ott.bingebd.com/live/ngrp:ary_zindigi_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSB57Ufn7cL7DZTiZ8wflmL68sse-FI7TTGpNrd0uqoQL6sVmfj&usqp=CAU" group-title="SHAHRIAR-NEW",ARY Digital
+https://ott.bingebd.com/live/ngrp:ary_asia_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmLpc8NFt3xsWW77Srt7hc3K4kcThTxhZVHA&usqp=CAU" group-title="SHAHRIAR-NEW",Hum Sitery
+https://ott.bingebd.com:443/live/ngrp:hum_sitaray_all/chunklist_b3666069.m3u8
+#EXTINF:-1 tvg-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROBL2OUFeccg6m4LP6tyddk93ZdjqnBB5xUQ&usqp=CAU" group-title="SHAHRIAR-NEW",APN
+https://ott.bingebd.com/live/ngrp:apn_news_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="SHAHRIAR-NEW",Gazi Tv HD
+http://103.211.185.98:8082/1/index.m3u8?token=8c4de5d8a130a122bed1f0f0724e16b11dad6c3d-4709d0bb34e97b059cf36cf7a1717e27-1602594275-1602583475&remote=103.146.54.106
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SHAHRIAR-NEW",TITAS SPORTS [BD]
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/live-orgin/titash.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FOX SPORT 1" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png" group-title="SHAHRIAR-NEW",FOX SPORT 1
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FOX SPORT 2" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png" group-title="SHAHRIAR-NEW",FOX SPORT 2
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="FOX SPORT 3" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png" group-title="SHAHRIAR-NEW",FOX SPORT 3
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Fox Sports News" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="SHAHRIAR-NEW",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="SHAHRIAR-NEW",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bayern Munich TV" tvg-logo="https://fcbayern.com/fcb/images/fcbayerntv-live.jpg" group-title="SHAHRIAR-NEW",Bayern Munich TV
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Real Madrid TV HD" tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="SHAHRIAR-NEW",Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Euro Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/220px-Eurosport_Logo_2015.svg.png" group-title="SHAHRIAR-NEW",Euro Sports 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SHAHRIAR-NEW",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Abu Dhabi Sports 2" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SHAHRIAR-NEW",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Abu Dhabi Sports 3" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SHAHRIAR-NEW",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Abu Dhabi Sports 4" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SHAHRIAR-NEW",Abu Dhabi Sports 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png" group-title="SHAHRIAR-NEW",WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Fight Sports" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SHAHRIAR-NEW",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bek Sports West" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="SHAHRIAR-NEW",Bek Sports West
+http://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Dubai Racing" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="SHAHRIAR-NEW",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Olympic Channel" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="SHAHRIAR-NEW",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?@amarnettv.live?fluxustv.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Olympic Channel [HD]" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="SHAHRIAR-NEW",Olympic Channel [HD]
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Olympic Channel [UHD]" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="SHAHRIAR-NEW",Olympic Channel [UHD]
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?@amarnettv.live?fluxustv.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="RTV Sports" tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="SHAHRIAR-NEW",RTV Sports
+http://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?@amarnettv.live?fluxustv.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Super Tennis" tvg-logo="https://i.imgur.com/S0cjjyk.jpg" group-title="SHAHRIAR-NEW",Super Tennis
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Racing.com" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="SHAHRIAR-NEW",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://www.dishurdu.com/images/PK-Sports-Logo.png" group-title="SHAHRIAR-NEW",PK Sports HD
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="SHAHRIAR-NEW",Sony Ten 1 HD
+https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SHAHRIAR-NEW",Sony Ten 1 
+http://106.0.54.6:8080/hls/tcm_ten1_cm_ip.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SHAHRIAR-NEW",Sony Ten 2 
+http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="SHAHRIAR-NEW",Sony Ten 3 HD
+https://load.airtel.tv/sonyten3hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SHAHRIAR-NEW",Sony SIX 
+http://103.211.185.98:8082/24/index.m3u8?token=57eff6c911a4c8e0e18590b4ea8ed18a38729876-a4826aedce00f1c5f55ac7ff3bf0f95d-1602593663-1602582863&remote=103.146.54.106
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SHAHRIAR-NEW",Star Sports 1 HD 
+http://103.211.185.98:8082/27/index.m3u8?token=4267b2ca196ab794f9510c933076f8b1feb1c706-f2cb88f8c4ccd1ddbf365115a1b18432-1602593817-1602583017&remote=103.146.54.106
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SHAHRIAR-NEW", Star Sports Hindi
+http://anytv.live:8080/live/saiful/saiful/347.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SHAHRIAR-NEW",Star Sports Select 1 HD 
+http://45.249.187.238:8081/hls/new2.m3u8
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SHAHRIAR-NEW",Star Sports Select 2 HD 
+http://103.211.185.98:8082/28/index.m3u8?token=fb631ff51e97615a1d93e1123c1b596788895746-f5efa3184155dfeb4e608b69290493ab-1602593924-1602583124&remote=103.146.54.106
+#EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SHAHRIAR-NEW",Ten Sports
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png" group-title="SHAHRIAR-NEW",BEIN SPORT HD 1
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png" group-title="SHAHRIAR-NEW",BEIN SPORT HD 2
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/64/64586a21aec876112658f3144d47f022.png" group-title="SHAHRIAR-NEW",PTV Sports
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_3f/3fcfc8a212c0a9bee0b1cdd23ffbc67d.png" group-title="SHAHRIAR-NEW",Sony ESPN
+http://103.211.185.98:8082/23/index.m3u8?token=08626d0343d4dff180a5ea5c588b053a6062e799-bd297aa2f9f03d2c632af5c1b85cf723-1602593386-1602582586&remote=103.146.54.106
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="LIFE IPTV (BD)",BTV WORLD
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="LIFE IPTV (BD)",CHANNEL I
